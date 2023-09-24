@@ -6,7 +6,8 @@
 
 .DS_Store
 
-.hsqldb/
+hsqldb/
+
 
 .metadata
 bin/
